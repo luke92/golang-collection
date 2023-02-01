@@ -4,3 +4,4 @@ Collection of golang projects with different practices, conventions, examples, e
 # Create Project
 `go mod init github.com/luke92/golang-collection`
 
+# [SOLID Principles](solid-principles/README.md)
